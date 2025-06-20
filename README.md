@@ -1,16 +1,25 @@
-# vakpatir
+# Assistive Communication App for Deaf, Mute, and Visually Impaired
 
-A new Flutter project.
+This Flutter application is designed to provide an inclusive communication platform for users with speech, hearing, and vision impairments. The app enables users to communicate effectively using features such as text-to-speech and Braille.
+
+## Features
+
+- Text-to-speech for easy communication
+- Support for Braille input/output for visually impaired users
+- Simple and accessible user interface
+- Multimodal communication support tailored for differently-abled users
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built with Flutter and can be run on Android devices.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android device or emulator with USB debugging enabled
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Running the App
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TATIREDDY-HEMESHWAR-REDDY/Assistive-Communication-App-for-Deaf-Mute-and-Visually-Impaired.git
