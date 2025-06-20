@@ -1,0 +1,25 @@
+name: vakpatir
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"  # Update to at least Dart 2.17 for null safety
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^3.4.0  # Added Text-to-Speech dependency
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.0.0  # Use Font Awesome for icons
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/setim.jpg  # Add your image asset here
